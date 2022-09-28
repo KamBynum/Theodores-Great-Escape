@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cottonplant
+* source:	https://sketchfab.com/3d-models/cottonplant-0918412ae8ce463192b117e5b901c81c
+* author:	Thunder (https://sketchfab.com/thunderpwn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cottonplant" (https://sketchfab.com/3d-models/cottonplant-0918412ae8ce463192b117e5b901c81c) by Thunder (https://sketchfab.com/thunderpwn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

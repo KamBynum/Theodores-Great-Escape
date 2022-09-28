@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d64fc8b4730f12d4ba7e88c5fcfbd854
+  - enabled: 0
+    path: Assets/Scenes/LevelSelect/LevelSelect(OLD).unity
+    guid: 35d9b100100531c438bb1447552d1971
+  - enabled: 1
+    path: Assets/Scenes/AlphaScene/AlphaScene_v0.unity
+    guid: 0c5507bc757597b4a8f2ea62ef10b452
+  - enabled: 1
+    path: Assets/Scenes/BrightDay.unity
+    guid: 19388287331459f4cbc41f1085ba4082
+  - enabled: 1
+    path: Assets/Scenes/SampleScene_Frank.unity
+    guid: 60b03a5504ce7c549a467883550c5f3d
+  - enabled: 1
+    path: Assets/Scenes/Farm/Farm_v0.unity
+    guid: b23c5833eeed3be4688b1bd02fee6248
+  - enabled: 1
+    path: Assets/Scenes/Canyon/Canyon_v0.unity
+    guid: d40deb65f225d0b46a62cc5e25023fb6
+  - enabled: 1
+    path: Assets/Scenes/LevelSelect/LevelSelect.unity
+    guid: c8da9e754035a224bb9f2e84c3e9e6bd
+  m_configObjects: {}

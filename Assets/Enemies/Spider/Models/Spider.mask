@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Spider
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: mesh
+    m_Weight: 1
+  - m_Path: root
+    m_Weight: 0
+  - m_Path: root/L_fourth_1
+    m_Weight: 0
+  - m_Path: root/L_fourth_1/L_fourth_2
+    m_Weight: 0
+  - m_Path: root/L_fourth_1/L_fourth_2/L_fourth_3
+    m_Weight: 0
+  - m_Path: root/L_fourth_1/L_fourth_2/L_fourth_3/L_fourth_4
+    m_Weight: 0
+  - m_Path: root/L_fourth_1/L_fourth_2/L_fourth_3/L_fourth_4/L_fourth_5
+    m_Weight: 0
+  - m_Path: root/R_fourth_1
+    m_Weight: 0
+  - m_Path: root/R_fourth_1/R_fourth_2
+    m_Weight: 0
+  - m_Path: root/R_fourth_1/R_fourth_2/R_fourth_3
+    m_Weight: 0
+  - m_Path: root/R_fourth_1/R_fourth_2/R_fourth_3/R_fourth_4
+    m_Weight: 0
+  - m_Path: root/R_fourth_1/R_fourth_2/R_fourth_3/R_fourth_4/R_fourth_5
+    m_Weight: 0
+  - m_Path: root/spine_1
+    m_Weight: 0
+  - m_Path: root/spine_1/L_third_1
+    m_Weight: 0
+  - m_Path: root/spine_1/L_third_1/L_third_2
+    m_Weight: 0
+  - m_Path: root/spine_1/L_third_1/L_third_2/L_third_3
+    m_Weight: 0
+  - m_Path: root/spine_1/L_third_1/L_third_2/L_third_3/L_third_4
+    m_Weight: 0
+  - m_Path: root/spine_1/L_third_1/L_third_2/L_third_3/L_third_4/L_third_5
+    m_Weight: 0
+  - m_Path: root/spine_1/R_third_1
+    m_Weight: 0
+  - m_Path: root/spine_1/R_third_1/R_third_2
+    m_Weight: 0
+  - m_Path: root/spine_1/R_third_1/R_third_2/R_third_3
+    m_Weight: 0
+  - m_Path: root/spine_1/R_third_1/R_third_2/R_third_3/R_third_4
+    m_Weight: 0
+  - m_Path: root/spine_1/R_third_1/R_third_2/R_third_3/R_third_4/R_third_5
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/L_second_1
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/L_second_1/L_second_2
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/L_second_1/L_second_2/L_second_3
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/L_second_1/L_second_2/L_second_3/L_second_4
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/L_second_1/L_second_2/L_second_3/L_second_4/L_second_5
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/R_second_1
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/R_second_1/R_second_2
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/R_second_1/R_second_2/R_second_3
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/R_second_1/R_second_2/R_second_3/R_second_4
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/R_second_1/R_second_2/R_second_3/R_second_4/R_second_5
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/spine_3
+    m_Weight: 1
+  - m_Path: root/spine_1/spine_2/spine_3/L_first_1
+    m_Weight: 1
+  - m_Path: root/spine_1/spine_2/spine_3/L_first_1/L_first_2
+    m_Weight: 1
+  - m_Path: root/spine_1/spine_2/spine_3/L_first_1/L_first_2/L_first_3
+    m_Weight: 1
+  - m_Path: root/spine_1/spine_2/spine_3/L_first_1/L_first_2/L_first_3/L_first_4
+    m_Weight: 1
+  - m_Path: root/spine_1/spine_2/spine_3/L_first_1/L_first_2/L_first_3/L_first_4/L_first_5
+    m_Weight: 1
+  - m_Path: root/spine_1/spine_2/spine_3/R_first_1
+    m_Weight: 1
+  - m_Path: root/spine_1/spine_2/spine_3/R_first_1/R_first_2
+    m_Weight: 1
+  - m_Path: root/spine_1/spine_2/spine_3/R_first_1/R_first_2/R_first_3
+    m_Weight: 1
+  - m_Path: root/spine_1/spine_2/spine_3/R_first_1/R_first_2/R_first_3/R_first_4
+    m_Weight: 1
+  - m_Path: root/spine_1/spine_2/spine_3/R_first_1/R_first_2/R_first_3/R_first_4/R_first_5
+    m_Weight: 1
+  - m_Path: root/spine_1/spine_2/spine_3/spine_4
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/spine_3/spine_4/L_fang_1
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/spine_3/spine_4/L_fang_1/L_fang_2
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/spine_3/spine_4/L_fang_1/L_fang_2/L_fang_3
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/spine_3/spine_4/L_fang_1/L_fang_2/L_fang_3/L_fang_4
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/spine_3/spine_4/R_fang_1
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/spine_3/spine_4/R_fang_1/R_fang_2
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/spine_3/spine_4/R_fang_1/R_fang_2/R_fang_3
+    m_Weight: 0
+  - m_Path: root/spine_1/spine_2/spine_3/spine_4/R_fang_1/R_fang_2/R_fang_3/R_fang_4
+    m_Weight: 0
+  - m_Path: root/tail_1
+    m_Weight: 1
+  - m_Path: root/tail_1/tail_2
+    m_Weight: 1
+  - m_Path: root/tail_1/tail_2/tail_3
+    m_Weight: 1

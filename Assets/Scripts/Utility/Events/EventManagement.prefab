@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3442405440956063323
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3442405440956063321}
+  - component: {fileID: 3442405440956063320}
+  - component: {fileID: 3442405440956063326}
+  m_Layer: 0
+  m_Name: EventManagement
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3442405440956063321
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3442405440956063323}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.8912887, y: 1.7513769, z: 0.03391117}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3442405440956063320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3442405440956063323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 604f44f1be933ec43af377b0797d6e8e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eventSound3DPrefab: {fileID: 3886618738328397834, guid: 5cbe5db4eb6030b4694062b1f09722da, type: 3}
+  ambientMinDist: 1
+  ambientMaxDist: 10
+  playerLandsAudio: {fileID: 0}
+  playerStepAudio: {fileID: 0}
+  deathAudio: {fileID: 0}
+  jumpAudio: {fileID: 0}
+  punchAudio: {fileID: 0}
+  squeak1: {fileID: 8300000, guid: 83a21a8cca3dac3418a9f8f835927a72, type: 3}
+  squeak2: {fileID: 8300000, guid: 568a9c25581b92248a2c2fdb6cc4a1f0, type: 3}
+  squeak3: {fileID: 8300000, guid: 20225b99e90e4524fa9cdeb34ddbc9c7, type: 3}
+  squeak4: {fileID: 8300000, guid: db728e677b1453e4ab2f33a2dbbaa970, type: 3}
+  squeak5: {fileID: 8300000, guid: 1b72e453a21a9ab4f9c311288d3f17ff, type: 3}
+  squeak6: {fileID: 8300000, guid: 3fd84c08526770847a880872e3a6c5d7, type: 3}
+  grunt1: {fileID: 8300000, guid: 0e4a935ec6bd8ef4b8ca8690ec699c5e, type: 3}
+  grunt2: {fileID: 8300000, guid: e9699acb8e7550843bab17e6bb3ad2d3, type: 3}
+  grunt3: {fileID: 8300000, guid: 2d0b8af6c2843cf4d9d19955f728abb0, type: 3}
+  grunt4: {fileID: 8300000, guid: 8df7f75434e413d4d8aea1332651218f, type: 3}
+  squeakHighImpact: {fileID: 8300000, guid: 859258f291013624ea228e2617fa98fa, type: 3}
+  superPunchGained: {fileID: 8300000, guid: 10412db8feed36049bc06d0beabde0cb, type: 3}
+  superPunchLost: {fileID: 8300000, guid: 66f824632a6f3b5498b6df480bd4682f, type: 3}
+  click1: {fileID: 8300000, guid: c32e91519c740944090689e3ce60098c, type: 3}
+  click2: {fileID: 8300000, guid: 441f0a84f1066d548b56150645353b31, type: 3}
+  click3: {fileID: 8300000, guid: 95e3ed12ec7a1294ebd300f6efae95da, type: 3}
+  click4: {fileID: 8300000, guid: 07e22c758f84a344cb0236cd51019595, type: 3}
+  click5: {fileID: 8300000, guid: f361a83634c0ff041b79c6b5915fb811, type: 3}
+  click6: {fileID: 8300000, guid: 25fcdecd01598484f9b987bbaa802f18, type: 3}
+  click7: {fileID: 8300000, guid: 62ccbabd48b60ee4cb6f24bc8e14777d, type: 3}
+  click8: {fileID: 8300000, guid: 34335b551c9effd42aef413294196dd5, type: 3}
+  click9: {fileID: 8300000, guid: 532313c7e9ddaaa47ab6d1618c3b2d26, type: 3}
+  click10: {fileID: 8300000, guid: 63093820da9bcd7479c6d5b04959e521, type: 3}
+  click11: {fileID: 8300000, guid: 6c3393ed2c6f5cd4e88add3b194be602, type: 3}
+  click12: {fileID: 8300000, guid: 2360721f82c66854b8a7d2b73d0c178d, type: 3}
+  click13: {fileID: 8300000, guid: 7f6ab78b85b621143b66a18ff7c0c35d, type: 3}
+  click14: {fileID: 8300000, guid: 949ee145bc496f848a78c6e6002b51fa, type: 3}
+  click15: {fileID: 8300000, guid: 64336249478c5294480af5a45dc92042, type: 3}
+  click16: {fileID: 8300000, guid: b78dc7282e95d9d41bafc5a64a5c3313, type: 3}
+  metallicClank1: {fileID: 8300000, guid: 2a0e54b293133d2478af6b035e79f711, type: 3}
+  metallicClank2: {fileID: 8300000, guid: b68fe4bba6aa64148a87c4a82f0686bd, type: 3}
+  metallicClank3: {fileID: 8300000, guid: ebc5638ba79bf9d45b8ba1c2045e01bb, type: 3}
+  metallicClank4: {fileID: 8300000, guid: 1496bbf393722cd458153d297fdf0093, type: 3}
+  metallicClank5: {fileID: 8300000, guid: 3043de69d031bbf4fb88b0abd8299c6b, type: 3}
+  pop1: {fileID: 8300000, guid: b00931540eec4be4e9fadc402d5040e5, type: 3}
+  pop2: {fileID: 8300000, guid: 4f169165be5c54d43835413eac6c844b, type: 3}
+  pop3: {fileID: 8300000, guid: 80f36730724e7eb439eff41f5b199545, type: 3}
+  pop4: {fileID: 8300000, guid: 946c1bb0a330c2d4b9773a5dea6e8b39, type: 3}
+  lossSound1: {fileID: 8300000, guid: 7f5ba46cd71a2f9479bbd61ee69bbe22, type: 3}
+  lossSound2: {fileID: 0}
+  victorySound: {fileID: 8300000, guid: c7a6d954b7841dc4793e2987bf319224, type: 3}
+  allHoneyCollectedSound: {fileID: 8300000, guid: b7d880a2127fa454caef2e78be33240c, type: 3}
+  music1: {fileID: 8300000, guid: 379215d74dd1a054b8638f6faa7e125e, type: 3}
+  music2: {fileID: 8300000, guid: 1d7e0eddfabcba748abbae27c2dedcf5, type: 3}
+  rooster:
+  - {fileID: 8300000, guid: 57b9b710c7f3b434787d89b3669e412e, type: 3}
+  - {fileID: 8300000, guid: b0f30872f3206474daf034bf6e0353c8, type: 3}
+  cow: {fileID: 8300000, guid: 6bf2fb3a0a4665d44abddcffac6eeb71, type: 3}
+  bird:
+  - {fileID: 8300000, guid: 893174ae89d9cb64e9399a398465ea46, type: 3}
+  - {fileID: 8300000, guid: 0fa5fbaeed57b914d85e71e64273ba0d, type: 3}
+  flies: {fileID: 8300000, guid: 3283ab3944532a2488440b5ffe421cfc, type: 3}
+  crickets: {fileID: 8300000, guid: ce9d6be755d5a49409f5b329f373bcb9, type: 3}
+  goat: {fileID: 8300000, guid: 9c676e1fe86b46d43b09358fe932ff45, type: 3}
+  hawk: {fileID: 8300000, guid: 4d5bf07fec47a8649b1e89054dd4b4b8, type: 3}
+  dirtFalling:
+  - {fileID: 8300000, guid: e54fed668941e41449a6f5263851e8c4, type: 3}
+  - {fileID: 8300000, guid: 667555e22a3993a4bb7b3ca16698d428, type: 3}
+  - {fileID: 8300000, guid: a8e58bf77779b31408cc6cf68e3ed2af, type: 3}
+  PillbugAmplification: 3
+  PillbugSoundMinRange: 1.5
+  PillbugSoundMaxRange: 20
+  PillbugSoundMaxVolume: 0.9
+  pillbugClean: {fileID: 8300000, guid: 5c3b649c84fec0944998eeabf52bbc40, type: 3}
+  pillbugPunch: {fileID: 8300000, guid: 87fff3eb8158f0243942b5bab5fb4816, type: 3}
+  pillbugStep: {fileID: 8300000, guid: a0e8fe69221774149a863995152d2d79, type: 3}
+  pillbugRoll1A: {fileID: 8300000, guid: 48cb223bb32ccad419baa31c47f5f705, type: 3}
+  pillbugRoll1B: {fileID: 8300000, guid: 848bc577b58bd3f41997506fe6e1af5f, type: 3}
+  pillbugSquash: {fileID: 8300000, guid: 220c480c6a7c6764bb13feefb4aa2887, type: 3}
+  pillbugSqueal: {fileID: 8300000, guid: 87fff3eb8158f0243942b5bab5fb4816, type: 3}
+  tweet1: {fileID: 8300000, guid: 625d36410fd6b3640b6639939345f672, type: 3}
+  tweet2: {fileID: 8300000, guid: 5af85666a06057244af0dc8c13bb62f2, type: 3}
+  tweet3: {fileID: 8300000, guid: e2c53f026ead77c4998f48e73bbe4ea3, type: 3}
+  collectHoney: {fileID: 8300000, guid: 6fa8503374750e748a9d971f58531d43, type: 3}
+  collectSuperHoney: {fileID: 8300000, guid: 10412db8feed36049bc06d0beabde0cb, type: 3}
+  breakableWallSound:
+  - {fileID: 8300000, guid: 0ffe9a5c2f4d2a94f84c4767c75d9d4f, type: 3}
+  - {fileID: 8300000, guid: 5403f0b8026ef5748bdb3db423dd8df9, type: 3}
+  SpiderAmplification: 3
+  SpiderSoundMinRange: 1
+  SpiderSoundMaxRange: 10
+  SpiderSoundMaxVolume: 0.9
+  spiderPunch: {fileID: 8300000, guid: 4585b4b8b52d79249ae072d604095a12, type: 3}
+  spiderStep: {fileID: 0}
+  spiderDeath: {fileID: 8300000, guid: e18179f460f664944ace2b99d4d14600, type: 3}
+  spiderLeap: {fileID: 8300000, guid: 02860892d1b240c4badbef1ae3eef9af, type: 3}
+  spiderWebShot: {fileID: 8300000, guid: 1b63a3cbaf39e134fb69b4783d1b42f5, type: 3}
+  collapse: {fileID: 8300000, guid: a8e58bf77779b31408cc6cf68e3ed2af, type: 3}
+  cloudBounce: {fileID: 8300000, guid: 02860892d1b240c4badbef1ae3eef9af, type: 3}
+  hayBaleHit: {fileID: 8300000, guid: 4ea47a2f8c3e32c4897597d532ff4473, type: 3}
+  woodHit:
+  - {fileID: 8300000, guid: 5403f0b8026ef5748bdb3db423dd8df9, type: 3}
+  - {fileID: 8300000, guid: 0ffe9a5c2f4d2a94f84c4767c75d9d4f, type: 3}
+  - {fileID: 8300000, guid: a1fc27dc64a3e6945a843accbd42c8ca, type: 3}
+--- !u!114 &3442405440956063326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3442405440956063323}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5ad75d2f9e65d349b546c81a9cc97ab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

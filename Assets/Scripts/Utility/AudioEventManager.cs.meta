@@ -1,0 +1,62 @@
+fileFormatVersion: 2
+guid: 604f44f1be933ec43af377b0797d6e8e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eventSound3DPrefab: {instanceID: 0}
+  - playerLandsAudio: {instanceID: 0}
+  - deathAudio: {instanceID: 0}
+  - jumpAudio: {instanceID: 0}
+  - gruntAudio: {instanceID: 0}
+  - punchAudio: {instanceID: 0}
+  - squeak1: {fileID: 8300000, guid: 86f4abf192d2aa34abfd3bebdabe38a9, type: 3}
+  - squeak2: {fileID: 8300000, guid: 452b667c1f57a56499c2dd14b1113fa5, type: 3}
+  - squeak3: {fileID: 8300000, guid: 7763f7b6931ae9d4b976ac1810473cf3, type: 3}
+  - squeak4: {fileID: 8300000, guid: a53c6176e146f394bb749b561888ce6a, type: 3}
+  - squeak5: {fileID: 8300000, guid: 418dea35338c4b8448eacab116a0cb6c, type: 3}
+  - squeak6: {fileID: 8300000, guid: 276bd97f8ecfe2a4faa27fee59d3b938, type: 3}
+  - squeakHighImpact: {fileID: 8300000, guid: 67ced2989fcb81c45b5196ba46cc52d0, type: 3}
+  - click1: {instanceID: 0}
+  - click2: {instanceID: 0}
+  - click3: {instanceID: 0}
+  - click4: {instanceID: 0}
+  - click5: {instanceID: 0}
+  - click6: {instanceID: 0}
+  - click7: {instanceID: 0}
+  - click8: {instanceID: 0}
+  - click9: {instanceID: 0}
+  - click10: {instanceID: 0}
+  - click11: {instanceID: 0}
+  - click12: {instanceID: 0}
+  - click13: {instanceID: 0}
+  - click14: {instanceID: 0}
+  - click15: {instanceID: 0}
+  - click16: {instanceID: 0}
+  - metallicClank1: {instanceID: 0}
+  - metallicClank2: {instanceID: 0}
+  - metallicClank3: {instanceID: 0}
+  - metallicClank4: {instanceID: 0}
+  - metallicClank5: {instanceID: 0}
+  - pop1: {fileID: 8300000, guid: b00931540eec4be4e9fadc402d5040e5, type: 3}
+  - pop2: {fileID: 8300000, guid: 4f169165be5c54d43835413eac6c844b, type: 3}
+  - pop3: {fileID: 8300000, guid: 80f36730724e7eb439eff41f5b199545, type: 3}
+  - pop4: {fileID: 8300000, guid: 946c1bb0a330c2d4b9773a5dea6e8b39, type: 3}
+  - lossSound1: {instanceID: 0}
+  - lossSound2: {instanceID: 0}
+  - victorySound: {instanceID: 0}
+  - pillbugClean: {instanceID: 0}
+  - pillbugPunch: {instanceID: 0}
+  - pillbugStep: {instanceID: 0}
+  - pillbugRoll1A: {instanceID: 0}
+  - pillbugRoll1B: {instanceID: 0}
+  - pillbugSquash: {instanceID: 0}
+  - pillbugSqueal: {instanceID: 0}
+  - tweet1: {instanceID: 0}
+  - tweet2: {instanceID: 0}
+  - tweet3: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
